@@ -1,0 +1,69 @@
+{
+  "constants": {
+    "decoration_lock": {
+      "notes": "Promoted by extraction pipeline; status=derived_numeric; source_section=paper/DECORATED_L_THEORY_ASSEMBLY_PREPRINT.md Section 3; raw=1.02951, ref=1.0, formula=c_transfer_raw * transfer_gain_raw - e_transfer_raw",
+      "source": "artifacts/constants_extracted.json#decoration_lock",
+      "source_section": "paper/DECORATED_L_THEORY_ASSEMBLY_PREPRINT.md Section 3",
+      "status": "derived_numeric",
+      "theorem_level": true,
+      "value": 1.02951
+    },
+    "eps_coh": {
+      "notes": "Promoted by extraction pipeline; status=derived_numeric; source_section=paper/DECORATED_L_THEORY_ASSEMBLY_PREPRINT.md Section 3; raw=0.0, ref=1.0, formula=eps_coh_raw",
+      "source": "artifacts/constants_extracted.json#eps_coh",
+      "source_section": "paper/DECORATED_L_THEORY_ASSEMBLY_PREPRINT.md Section 3",
+      "status": "derived_numeric",
+      "theorem_level": true,
+      "value": 0.0
+    },
+    "isomorphism_transfer": {
+      "notes": "Promoted by extraction pipeline; status=derived_numeric; source_section=paper/DECORATED_L_THEORY_ASSEMBLY_PREPRINT.md Section 6.2 / Appendix E.4; raw=1.029422, ref=1.0, formula=c_iso_raw * transfer_gain_raw - e_iso_raw",
+      "source": "artifacts/constants_extracted.json#isomorphism_transfer",
+      "source_section": "paper/DECORATED_L_THEORY_ASSEMBLY_PREPRINT.md Section 6.2 / Appendix E.4",
+      "status": "derived_numeric",
+      "theorem_level": true,
+      "value": 1.029422
+    },
+    "kappa_assembly": {
+      "notes": "Promoted by extraction pipeline; status=derived_numeric; source_section=paper/DECORATED_L_THEORY_ASSEMBLY_PREPRINT.md Section 3; raw=1.091838, ref=1.0, formula=c_core_raw * density_raw - e_core_raw",
+      "source": "artifacts/constants_extracted.json#kappa_assembly",
+      "source_section": "paper/DECORATED_L_THEORY_ASSEMBLY_PREPRINT.md Section 3",
+      "status": "derived_numeric",
+      "theorem_level": true,
+      "value": 1.091838
+    },
+    "kappa_compact": {
+      "notes": "Promoted by extraction pipeline; status=derived_numeric; source_section=paper/DECORATED_L_THEORY_ASSEMBLY_PREPRINT.md Section 3; raw=0.8038585209003215, ref=1.0, formula=1.0 / (1.0 + delta_comp_sup_raw)",
+      "source": "artifacts/constants_extracted.json#kappa_compact",
+      "source_section": "paper/DECORATED_L_THEORY_ASSEMBLY_PREPRINT.md Section 3",
+      "status": "derived_numeric",
+      "theorem_level": true,
+      "value": 0.8038585209003215
+    },
+    "rho_rigidity": {
+      "notes": "Promoted by extraction pipeline; status=derived_numeric; source_section=paper/DECORATED_L_THEORY_ASSEMBLY_PREPRINT.md Section 3; raw=1.077, ref=1.0, formula=rho_rigidity_raw",
+      "source": "artifacts/constants_extracted.json#rho_rigidity",
+      "source_section": "paper/DECORATED_L_THEORY_ASSEMBLY_PREPRINT.md Section 3",
+      "status": "derived_numeric",
+      "theorem_level": true,
+      "value": 1.077
+    },
+    "sigma_control": {
+      "notes": "Promoted by extraction pipeline; status=derived_numeric; source_section=paper/DECORATED_L_THEORY_ASSEMBLY_PREPRINT.md Section 5.2 / Appendix B; raw=1.073, ref=1.0, formula=control_floor_raw - coarse_loss_raw - restart_loss_raw",
+      "source": "artifacts/constants_extracted.json#sigma_control",
+      "source_section": "paper/DECORATED_L_THEORY_ASSEMBLY_PREPRINT.md Section 5.2 / Appendix B",
+      "status": "derived_numeric",
+      "theorem_level": true,
+      "value": 1.073
+    },
+    "sigma_decoration": {
+      "notes": "Promoted by extraction pipeline; status=derived_numeric; source_section=paper/DECORATED_L_THEORY_ASSEMBLY_PREPRINT.md Section 3; raw=1.075, ref=1.0, formula=capture_floor_raw - transport_loss_raw - restart_loss_raw",
+      "source": "artifacts/constants_extracted.json#sigma_decoration",
+      "source_section": "paper/DECORATED_L_THEORY_ASSEMBLY_PREPRINT.md Section 3",
+      "status": "derived_numeric",
+      "theorem_level": true,
+      "value": 1.075
+    }
+  },
+  "updated_at_utc": "2026-03-13T17:47:51Z"
+}

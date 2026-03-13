@@ -1,0 +1,24 @@
+title: "Decorated L-Theory Assembly via Decoration-Persistence"
+message: "If you use this workspace, cite the manuscript and theorem notes."
+type: software
+authors:
+  - name: "HautevilleHouse"
+date-released: 2026-03-05
+repository-code: "https://github.com/HautevilleHouse/decorated-l-theory-assembly-canonical-lane"
+url: "https://github.com/HautevilleHouse/decorated-l-theory-assembly-canonical-lane"
+license: None
+keywords:
+  - algebraic-topology
+  - assembly-map
+  - canonical-lane
+  - l-theory
+  - local-to-global
+  - manifold-constrained
+  - mathematical-proof
+  - reproducibility
+preferred-citation:
+  type: article
+  title: "Decorated L-Theory Assembly via Decoration-Persistence"
+  authors:
+    - name: "HautevilleHouse"
+  date: 2026-03-05
